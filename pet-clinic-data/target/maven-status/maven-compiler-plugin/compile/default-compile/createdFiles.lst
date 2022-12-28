@@ -1,5 +1,14 @@
-iwase/shohei/sfgpetclinic/model/Pet.class
 iwase/shohei/sfgpetclinic/model/Person.class
 iwase/shohei/sfgpetclinic/model/PetType.class
 iwase/shohei/sfgpetclinic/model/Vet.class
+iwase/shohei/sfgpetclinic/services/VetService.class
+iwase/shohei/sfgpetclinic/services/map/AbstractMapService.class
+iwase/shohei/sfgpetclinic/services/OwnerService.class
+iwase/shohei/sfgpetclinic/services/CrudService.class
+iwase/shohei/sfgpetclinic/model/Pet.class
+iwase/shohei/sfgpetclinic/services/map/PetServiceMap.class
+iwase/shohei/sfgpetclinic/model/BaseEntity.class
+iwase/shohei/sfgpetclinic/services/PetService.class
 iwase/shohei/sfgpetclinic/model/Owner.class
+iwase/shohei/sfgpetclinic/services/map/VetServiceMap.class
+iwase/shohei/sfgpetclinic/services/map/OwnerServiceMap.class
