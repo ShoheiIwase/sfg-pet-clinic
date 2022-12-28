@@ -1,4 +1,4 @@
-package iwase.shohei.model;
+package iwase.shohei.sfgpetclinic.model;
 
 public class Person {
 

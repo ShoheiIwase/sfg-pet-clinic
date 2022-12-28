@@ -1,5 +1,5 @@
-/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/model/Owner.java
-/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/model/Vet.java
-/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/model/PetType.java
-/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/model/Person.java
-/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/model/Pet.java
+/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/sfgpetclinic/model/Pet.java
+/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/sfgpetclinic/model/Person.java
+/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/sfgpetclinic/model/Owner.java
+/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/sfgpetclinic/model/Vet.java
+/Users/shohei/workspace/sfg-pet-clinic/pet-clinic-data/src/main/java/iwase/shohei/sfgpetclinic/model/PetType.java

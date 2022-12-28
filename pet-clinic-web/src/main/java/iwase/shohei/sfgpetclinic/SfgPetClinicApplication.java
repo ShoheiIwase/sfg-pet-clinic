@@ -1,4 +1,4 @@
-package iwase.shohei;
+package iwase.shohei.sfgpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

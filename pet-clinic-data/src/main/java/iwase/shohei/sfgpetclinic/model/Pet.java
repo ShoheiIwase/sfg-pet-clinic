@@ -1,4 +1,4 @@
-package iwase.shohei.model;
+package iwase.shohei.sfgpetclinic.model;
 
 import java.time.LocalDate;
 
