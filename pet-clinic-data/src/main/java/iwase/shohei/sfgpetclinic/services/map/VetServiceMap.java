@@ -1,11 +1,11 @@
 package iwase.shohei.sfgpetclinic.services.map;
 
 import iwase.shohei.sfgpetclinic.model.Vet;
-import iwase.shohei.sfgpetclinic.services.CrudService;
+import iwase.shohei.sfgpetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
     @Override
     public Set<Vet> findAll() {
         return super.findAll();
