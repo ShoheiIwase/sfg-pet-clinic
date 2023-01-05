@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: iwase.shohei.sfgpetclinic.SfgPetClinicApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.446 s - in iwase.shohei.sfgpetclinic.SfgPetClinicApplicationTests
